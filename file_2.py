@@ -1,9 +1,12 @@
 import sklearn
 
-import keras.utils
+import keras
 
 # A
 # B
 # C
 # E
 # F
+# D
+# H
+# I
